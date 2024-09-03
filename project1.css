@@ -1,0 +1,54 @@
+
+nav{
+   
+    background-color:#6BA292 ;
+    display: flex;
+    align-items: center;
+      
+}
+
+nav *{
+    display: inline-block;
+    text-decoration: none;
+    
+}
+nav ul{
+    margin-left: 300px;
+}
+
+ul li{
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 60px;  
+    color: white;  
+    font-family: 'Courier New', Courier, monospace;
+}
+
+span{
+    padding-left: 30px;
+    
+}
+span a {
+    color: wheat; 
+    font-size: larger;
+    
+}
+nav button{
+    margin-left: 180px;
+    background-color: #BCD8B7;
+    color: white;
+    border: none;
+}
+nav input {
+    margin-left: 4px;
+}
+#container{
+    
+    
+    margin-top: 10px;
+}
+#about{
+    border: 2px solid saddlebrown;
+    margin-left: 1px;
+    display: inline-block;
+}
